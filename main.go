@@ -37,5 +37,4 @@ func main() {
 		return postMessage(c, producer)
 	})
 	app.Listen(":8585")
-
 }
